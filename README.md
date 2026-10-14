@@ -5,7 +5,6 @@
 
 <!-- Quick Links & Status -->
 <div align="center">
-  
   <p align="center">
     <a href="mailto:yasirraeesit@gmail.com"><img src="https://img.shields.io/badge/Email-yasirraeesit%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
     <a href="https://github.com/yasirraeesit"><img src="https://img.shields.io/github/followers/yasirraeesit?logo=github&style=flat-square&color=0891b2&labelColor=1c1917" alt="GitHub followers" /></a>
@@ -17,18 +16,9 @@
 
 <br/>
 
-<!-- Contribution Snake Arcade Section -->
+<!-- Contribution Snake -->
 <div align="center">
-  <h2>🐍 ARCADE PROTOCOL: snake_runner.exe</h2>
-  <p>
-    <img src="https://img.shields.io/badge/MISSION-CONSUMING_COMMITS-00F7FF?style=for-the-badge&logo=counter-strike&logoColor=black" />
-    <img src="https://img.shields.io/badge/STATUS-AUTONOMOUS_BOT-00FF9D?style=for-the-badge&logo=githubactions&logoColor=black" />
-    <img src="https://img.shields.io/badge/SPEED-OVERCLOCKED-7928CA?style=for-the-badge&logo=target&logoColor=white" />
-  </p>
-
   <img src="https://raw.githubusercontent.com/yasirraeesit/yasirraeesit/main/snake.svg" alt="GitHub Contribution Grid Snake" width="100%">
-
-  <p><em>🕹️ Watch the autonomous cyber-snake harvest active commit pulses across the repository timeline! ⚡</em></p>
 </div>
 
 <br/>
@@ -56,42 +46,6 @@
 
 <br/>
 
-<!-- Featured Projects -->
-<div align="center">
-  <h2>🚀 Featured Projects</h2>
-  
-  <table>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/yasirraeesit/Collab-Talk-AI" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirraeesit&repo=Collab-Talk-AI&theme=tokyonight&hide_border=true" alt="Collab Talk AI" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://github.com/developer-yasir/support-desk" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=developer-yasir&repo=support-desk&theme=tokyonight&hide_border=true" alt="Support Desk" width="100%" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="50%">
-        <a href="https://github.com/yasirraeesit/companyboss-client" target="_blank">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirraeesit&repo=companyboss-client&theme=tokyonight&hide_border=true" alt="CompanyBoss Client" width="100%" />
-        </a>
-      </td>
-      <td align="center" width="50%">
-        <a href="https://innovent.io/pages/platform.html" target="_blank">
-          <img src="https://img.shields.io/badge/Innfini%20Platform-IoT%20%26%20RFID%20Telemetry-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" width="100%" /><br/><br/>
-          <b>📡 Innfini IoT & RFID Platform</b><br/>
-          <sub>Reduced audit cycle times by 45%</sub>
-        </a>
-      </td>
-    </tr>
-  </table>
-</div>
-
-<br/>
-
 <!-- Social Media -->
 <div align="center">
   <h2>🌐 Connect With Me</h2>
@@ -112,16 +66,6 @@
   🐛 Report issues or suggest improvements<br/>
   💡 Discuss scalable SaaS architectures & AI agent workflows<br/>
   🌟 Star the repositories you find helpful
-</div>
-
-<br/>
-
-<!-- Languages -->
-<div align="center">
-  <h2>🌍 Languages</h2>
-  
-  ![English](https://img.shields.io/badge/English-Professional_Working-blue?style=for-the-badge)
-  ![Urdu](https://img.shields.io/badge/Urdu-Native-green?style=for-the-badge)
 </div>
 
 <br/>
