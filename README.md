@@ -1,184 +1,138 @@
+<!-- Header Banner -->
 <div align="center">
-
-# 🛠️ SYSTEM STARTUP: Yasir Raees | System Architect
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=yasirraeesit&label=⚡%20Telemetry%20Views&color=00F7FF&style=for-the-badge" alt="Profile Views" />
-</p>
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Initializing+System...;Loading+Core+Modules...;Yasir+Raees+v1.0.0;Status:+ACTIVE;Welcome+to+the+Mainframe!+🚀" alt="Typing SVG" />
-
+  <img src="./banner.svg" alt="Yasir Raees banner" width="100%">
 </div>
 
----
-
-### 🖥️ SYSTEM TERMINAL: about_me.txt
-
-```bash
-# cat /usr/yasir/about_me.txt
-
-> [NAME]:        Yasir Raees
-> [ROLE]:        MERN Stack Developer | UI/UX Specialist
-> [STATUS]:      Actively Building & Optimizing
-> [MISSION]:     Transforming complex logic into seamless human experiences.
-> [CORE]:        Passionate about clean code, high performance, and pixel-perfection.
-
-# _
-```
-
----
-
-### 🧩 CORE MODULES: skill_set.sh
-
+<!-- Introduction -->
 <div align="center">
-
-| 🖼️ UI/UX ENGINE | ⚙️ BACKEND CORE | 🛠️ SYSTEM UTILS |
-|:---:|:---:|:---:|
-| <img src="https://img.shields.io/badge/Frontend-Neon_Cyan-00F7FF?style=for-the-badge" /><br /><img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind,redux" /> | <img src="https://img.shields.io/badge/Backend-Neon_Green-339933?style=for-the-badge" /><br /><img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase,graphql" /> | <img src="https://img.shields.io/badge/Tools-Neon_Purple-764ABC?style=for-the-badge" /><br /><img src="https://skillicons.dev/icons?i=git,github,vscode,docker,figma,postman" /> |
-
+  <h1>👋 Hi, I'm Yasir Raees</h1>
+  <h3>Software Engineer | Full-Stack & AI Systems Architect</h3>
+  <p><b>Passionate Developer from Lahore, Pakistan 🇵🇰</b></p>
+  
+  [![Email](https://img.shields.io/badge/Email-yasirraeesit%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:yasirraeesit@gmail.com)
+  [![GitHub followers](https://img.shields.io/github/followers/yasirraeesit?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/yasirraeesit)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-yasirraees.cv-blue?style=flat-square&logo=googlechrome)](https://www.yasirraees.cv)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-yasirraeesit-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yasirraeesit)
+  ![Profile Views](https://komarev.com/ghpvc/?username=yasirraeesit&style=flat-square&color=0891b2)
 </div>
 
----
+<br/>
 
-### 🚀 DEPLOYMENT LOGS: featured_projects.json
-
-<br />
-
-<!-- Project 1: Befoody -->
-<details open>
-<summary><b>[LOG_001]: BEFOODY - FULL-STACK ECOSYSTEM</b></summary>
-<p>
-  <ul>
-    <li>🚀 <b>STATUS:</b> PRODUCTION | LIVE</li>
-    <li>🛠 <b>CORE:</b> MERN Stack (React, Node, MongoDB)</li>
-    <li>🔍 <b>FEATURES:</b> Triple-Dash Dashboards, Real-time vendor sync, Stripe integration.</li>
-  </ul>
-  <p align="center">
-    <a href="https://profound-baklava-68f683.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/ACCESS_ENDPOINT-FF4B2B?style=for-the-badge&logo=netlify&logoColor=white" />
-    </a>
-    <a href="https://github.com/yasirraeesit/befoody" target="_blank">
-      <img src="https://img.shields.io/badge/READ_LOGS-24292e?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-</p>
-</details>
-
-<hr />
-
-<!-- Project 2: Social Media Dashboard -->
-<details open>
-<summary><b>[LOG_002]: ANALYTICS_INSIGHTS - SOCIAL HUB</b></summary>
-<p>
-  <ul>
-    <li>🚀 <b>STATUS:</b> OPTIMIZED | ONLINE</li>
-    <li>🛠 <b>CORE:</b> React, Firebase, Tailwind CSS</li>
-    <li>🔍 <b>FEATURES:</b> Global metrics tracking, High-speed data fetching, Real-time feed.</li>
-  </ul>
-  <p align="center">
-    <a href="https://stellular-pixie-a0846f.netlify.app" target="_blank">
-      <img src="https://img.shields.io/badge/ACCESS_ENDPOINT-00C853?style=for-the-badge&logo=google-chrome&logoColor=white" />
-    </a>
-  </p>
-</p>
-</details>
-
-<hr />
-
-<!-- Project 3: Cash Flow Vision -->
-<details>
-<summary><b>[LOG_003]: CASH_FLOW_VISION - INVENTORY INTELLIGENCE</b></summary>
-<p>
-  <ul>
-    <li>🚀 <b>STATUS:</b> INTERNAL | RESTRICTED</li>
-    <li>🛠 <b>CORE:</b> MERN Stack + Chart.js + JWT</li>
-    <li>🔍 <b>FEATURES:</b> Financial forecasting, Asset tracking, Enterprise auth.</li>
-  </ul>
-  <p align="center">
-    <a href="https://github.com/yasirraeesit/Cash-Flow-Vision" target="_blank">
-      <img src="https://img.shields.io/badge/READ_LOGS-808080?style=for-the-badge&logo=github&logoColor=white" />
-    </a>
-  </p>
-</p>
-</details>
-
-<hr />
-
-<!-- Project 4: Peckham Banners -->
-<details>
-<summary><b>[LOG_004]: PECKHAM_MARKETPLACE - E-COMMERCE</b></summary>
-<p>
-  <ul>
-    <li>🚀 <b>STATUS:</b> COMMERCIAL | ACTIVE</li>
-    <li>🛠 <b>CORE:</b> WordPress, WooCommerce, Stripe</li>
-    <li>🔍 <b>FEATURES:</b> Large-scale inventory, Multi-tier checkout, Vendor support integrations.</li>
-  </ul>
-  <p align="center">
-    <a href="https://peckhambanners.co.uk" target="_blank">
-      <img src="https://img.shields.io/badge/ACCESS_ENDPOINT-008080?style=for-the-badge&logo=opencart&logoColor=white" />
-    </a>
-  </p>
-</p>
-</details>
-
----
-
-### 📊 TELEMETRY DASHBOARD: system_stats.data
-
+<!-- GitHub Snake -->
 <div align="center">
-  <table border="0">
+  <img src="./snake.svg" alt="GitHub Contribution Grid Snake" width="100%">
+</div>
+
+<br/>
+
+<!-- Technologies -->
+<div align="center">
+  <h2>💻 Tech Stack</h2>
+  
+  #### Languages & Frameworks
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,nodejs,nestjs,dotnet" alt="Languages & Frameworks" />
+  
+  #### Frontend & Mobile
+  <img src="https://skillicons.dev/icons?i=html,css,tailwind,redux,figma" alt="Frontend & Design" />
+  
+  #### Databases & Caching
+  <p>
+    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
+    <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  </p>
+  
+  #### Tools & Platforms
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vercel,postman,vscode" alt="Tools & Platforms" />
+</div>
+
+<br/>
+
+<!-- Featured Projects -->
+<div align="center">
+  <h2>🚀 Featured Projects</h2>
+  
+  <table>
     <tr>
-      <td width="100%" colspan="2" align="center">
-        <a href="https://github.com/yasirraeesit">
-          <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yasirraeesit&theme=tokyonight" width="90%" />
+      <td align="center" width="50%">
+        <a href="https://github.com/yasirraeesit/Collab-Talk-AI" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirraeesit&repo=Collab-Talk-AI&theme=tokyonight&hide_border=true" alt="Collab Talk AI" width="100%" />
+        </a>
+      </td>
+      <td align="center" width="50%">
+        <a href="https://github.com/developer-yasir/support-desk" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=developer-yasir&repo=support-desk&theme=tokyonight&hide_border=true" alt="Support Desk" width="100%" />
         </a>
       </td>
     </tr>
     <tr>
-      <td width="50%" align="center">
-        <a href="https://github.com/yasirraeesit">
-          <img src="https://github-readme-stats.vercel.app/api?username=yasirraeesit&show_icons=true&count_private=true&theme=tokyonight&border_radius=10" width="100%" />
+      <td align="center" width="50%">
+        <a href="https://github.com/yasirraeesit/companyboss-client" target="_blank">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=yasirraeesit&repo=companyboss-client&theme=tokyonight&hide_border=true" alt="CompanyBoss Client" width="100%" />
         </a>
       </td>
-      <td width="50%" align="center">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirraeesit&theme=tokyonight&border_radius=10" width="100%" />
+      <td align="center" width="50%">
+        <a href="https://innovent.io/pages/platform.html" target="_blank">
+          <img src="https://img.shields.io/badge/Innfini%20Platform-IoT%20%26%20RFID%20Telemetry-0891b2?style=for-the-badge&logo=googlechrome&logoColor=white" width="100%" /><br/><br/>
+          <b>📡 Innfini IoT & RFID Platform</b><br/>
+          <sub>Reduced audit cycle times by 45%</sub>
+        </a>
       </td>
     </tr>
   </table>
 </div>
 
----
+<br/>
 
-### 🏆 SYSTEM AWARDS: achievements.log
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yasirraeesit&theme=tokyonight&no-frame=true&row=1&column=6" alt="GitHub Trophies" />
-</p>
-
----
-
-### 🐍 PROTOCOL_ACTIVITY: contribution_snake.exe
-
+<!-- Social Media -->
 <div align="center">
-  <img src="https://github.com/yasirraeesit/yasirraeesit/blob/output/github-contribution-grid-snake.svg" alt="Contribution Snake" />
-  <p><em>Watch the snake optimize my contributions! ⚡</em></p>
+  <h2>🌐 Connect With Me</h2>
+  
+  [![Portfolio](https://img.shields.io/badge/Portfolio-0070F3?style=for-the-badge&logo=googlechrome&logoColor=white)](https://www.yasirraees.cv)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yasirraeesit/)
+  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/yasirraeesit)
+  [![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yasirraeesit@gmail.com)
 </div>
 
----
+<br/>
 
-### 🔥 SYSTEM CORE: fun_facts.json
-
-```json
-{
-  "fuel_source": ["Chai", "Creative Sparks"],
-  "audio_input": "Lo-fi Beats & Deep Chill",
-  "ideology": "Frontend Perfectionist","Software Engineer", "Backend Bull",
-  "current_status": "Building for the Future"
-}
-```
-
----
-
+<!-- How to collaborate -->
 <div align="center">
-  <em>Initializing complete. System ready. 🚀</em>
+  <h2>🤝 How to Collaborate</h2>
+  
+  🔍 Explore my open-source repositories<br/>
+  🐛 Report issues or suggest improvements<br/>
+  💡 Discuss scalable SaaS architectures & AI agent workflows<br/>
+  🌟 Star the repositories you find helpful
+</div>
+
+<br/>
+
+<!-- Languages -->
+<div align="center">
+  <h2>🌍 Languages</h2>
+  
+  ![English](https://img.shields.io/badge/English-Professional_Working-blue?style=for-the-badge)
+  ![Urdu](https://img.shields.io/badge/Urdu-Native-green?style=for-the-badge)
+</div>
+
+<br/>
+
+<!-- GitHub Stats -->
+<div align="center">
+  <h2>📊 GitHub Stats</h2>
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=yasirraeesit&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yasirraeesit&theme=tokyonight&hide_border=true" alt="GitHub Streak Stats" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yasirraeesit&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+</div>
+
+<br/>
+
+<!-- Footer -->
+<div align="center">
+  <p>🤝 Open to collaborations, full-stack engineering roles & disruptive AI initiatives</p>
+  <sub>Built with ⚡ by <b>Yasir Raees</b></sub>
 </div>
