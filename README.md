@@ -3,11 +3,8 @@
   <img src="https://raw.githubusercontent.com/yasirraeesit/yasirraeesit/main/banner.png" alt="Yasir Raees banner" width="100%">
 </div>
 
-<!-- Introduction -->
+<!-- Quick Links & Status -->
 <div align="center">
-  <h1>👋 Hi, I'm Yasir Raees</h1>
-  <h3>Software Engineer | Full-Stack & AI Systems Architect</h3>
-  <p><b>Passionate Developer from Lahore, Pakistan 🇵🇰</b></p>
   
   <p align="center">
     <a href="mailto:yasirraeesit@gmail.com"><img src="https://img.shields.io/badge/Email-yasirraeesit%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
