@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="./banner.svg" alt="Yasir Raees banner" width="100%">
+  <img src="https://raw.githubusercontent.com/yasirraeesit/yasirraeesit/main/banner.svg" alt="Yasir Raees banner" width="100%">
 </div>
 
 <!-- Introduction -->
@@ -20,7 +20,7 @@
 
 <!-- GitHub Snake -->
 <div align="center">
-  <img src="./snake.svg" alt="GitHub Contribution Grid Snake" width="100%">
+  <img src="https://raw.githubusercontent.com/yasirraeesit/yasirraeesit/main/snake.svg" alt="GitHub Contribution Grid Snake" width="100%">
 </div>
 
 <br/>
