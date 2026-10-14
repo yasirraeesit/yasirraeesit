@@ -1,6 +1,6 @@
 <!-- Header Banner -->
 <div align="center">
-  <img src="https://raw.githubusercontent.com/yasirraeesit/yasirraeesit/main/banner.svg" alt="Yasir Raees banner" width="100%">
+  <img src="https://raw.githubusercontent.com/yasirraeesit/yasirraeesit/main/banner.png" alt="Yasir Raees banner" width="100%">
 </div>
 
 <!-- Introduction -->
@@ -9,11 +9,13 @@
   <h3>Software Engineer | Full-Stack & AI Systems Architect</h3>
   <p><b>Passionate Developer from Lahore, Pakistan 🇵🇰</b></p>
   
-  [![Email](https://img.shields.io/badge/Email-yasirraeesit%40gmail.com-blue?style=flat-square&logo=gmail)](mailto:yasirraeesit@gmail.com)
-  [![GitHub followers](https://img.shields.io/github/followers/yasirraeesit?logo=github&style=flat-square&color=0891b2&labelColor=1c1917)](https://github.com/yasirraeesit)
-  [![Portfolio](https://img.shields.io/badge/Portfolio-yasirraees.cv-blue?style=flat-square&logo=googlechrome)](https://www.yasirraees.cv)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-yasirraeesit-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yasirraeesit)
-  ![Profile Views](https://komarev.com/ghpvc/?username=yasirraeesit&style=flat-square&color=0891b2)
+  <p align="center">
+    <a href="mailto:yasirraeesit@gmail.com"><img src="https://img.shields.io/badge/Email-yasirraeesit%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" /></a>
+    <a href="https://github.com/yasirraeesit"><img src="https://img.shields.io/github/followers/yasirraeesit?logo=github&style=flat-square&color=0891b2&labelColor=1c1917" alt="GitHub followers" /></a>
+    <a href="https://www.yasirraees.cv"><img src="https://img.shields.io/badge/Portfolio-yasirraees.cv-blue?style=flat-square&logo=googlechrome" alt="Portfolio" /></a>
+    <a href="https://linkedin.com/in/yasirraeesit"><img src="https://img.shields.io/badge/LinkedIn-yasirraeesit-0077B5?style=flat-square&logo=linkedin" alt="LinkedIn" /></a>
+    <img src="https://komarev.com/ghpvc/?username=yasirraeesit&style=flat-square&color=0891b2" alt="Profile Views" />
+  </p>
 </div>
 
 <br/>
