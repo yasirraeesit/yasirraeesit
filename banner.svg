@@ -1,49 +1,95 @@
+<svg width="854" height="220" viewBox="0 0 854 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19" />
+      <stop offset="50%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#022C43" />
+    </linearGradient>
 
-      <svg
-        width="854"
-        height="220"
-        xmlns="http://www.w3.org/2000/svg"
-        xmlns:xlink="http://www.w3.org/1999/xlink"
-        style="z-index:1;position:relative"
-        viewBox="0 0 854 220"
-      >
-        <style>
-      .text {   font-size: 52px;   font-weight: 700;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } .desc {   font-size: 20px;   font-weight: 500;   font-family: -apple-system,BlinkMacSystemFont,Segoe UI,Helvetica,Arial,sans-serif,Apple Color Emoji,Segoe UI Emoji;  } 
-      .text, .desc {   animation: fadeIn 1.2s ease-in-out forwards;  } @keyframes fadeIn {   from {     opacity: 0;   }   to {     opacity: 1;   }  } 
-    </style>
-        <defs>
-              <linearGradient id="linear" x1="0%" y1="0%" x2="100%" y2="0%">
-                <stop offset="0%" stop-color="#0f172a"/><stop offset="50%" stop-color="#0891b2"/><stop offset="100%" stop-color="#00f7ff"/>
-              </linearGradient>
-            </defs>
-        
-      <g transform="translate(427, 110) scale(1, 1) translate(-427, -110)">
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-              attributeName="d"
-              dur="20s"
-              repeatCount="indefinite"
-              keyTimes="0;0.333;0.667;1"
-              calcmod="spline"
-              keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-              begin="0s"
-              values="M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z;M0 0L 0 165Q 213.5 180 427 160T 854 150L 854 0 Z;M0 0L 0 185Q 213.5 155 427 185T 854 150L 854 0 Z;M0 0L 0 140Q 213.5 180 427 150T 854 175L 854 0 Z">
-          </animate>
-        </path>
-        <path d="" fill="url(#linear)" opacity="0.4" >
-          <animate
-            attributeName="d"
-            dur="20s"
-            repeatCount="indefinite"
-            keyTimes="0;0.333;0.667;1"
-            calcmod="spline"
-            keySplines="0.2 0 0.2 1;0.2 0 0.2 1;0.2 0 0.2 1"
-            begin="-10s"
-            values="M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z;M0 0L 0 170Q 213.5 140 427 140T 854 160L 854 0 Z;M0 0L 0 165Q 213.5 145 427 170T 854 185L 854 0 Z;M0 0L 0 155Q 213.5 200 427 170T 854 180L 854 0 Z">
-          </animate>
-        </path>
-      </g>
-         <text text-anchor="middle" dominant-baseline="middle" x="50%" y="38%" class="text" style="fill:#000000;" stroke="#none" stroke-width="1" >Yasir Raees</text>
-        <text text-anchor="middle" dominant-baseline="middle" x="50%" y="62%" class="desc" style="fill:#000000;">Software Engineer | Full-Stack & AI Systems Architect</text>
-      </svg>
-    
+    <!-- Wave 1 Gradient -->
+    <linearGradient id="wave1" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0891B2" stop-opacity="0.6" />
+      <stop offset="50%" stop-color="#0284C7" stop-opacity="0.8" />
+      <stop offset="100%" stop-color="#00F7FF" stop-opacity="0.7" />
+    </linearGradient>
+
+    <!-- Wave 2 Gradient -->
+    <linearGradient id="wave2" x1="100%" y1="0%" x2="0%" y2="0%">
+      <stop offset="0%" stop-color="#00F7FF" stop-opacity="0.4" />
+      <stop offset="50%" stop-color="#38BDF8" stop-opacity="0.5" />
+      <stop offset="100%" stop-color="#1E40AF" stop-opacity="0.3" />
+    </linearGradient>
+
+    <!-- Border Glow -->
+    <linearGradient id="borderGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#0891B2" stop-opacity="0.8" />
+      <stop offset="50%" stop-color="#00F7FF" stop-opacity="0.9" />
+      <stop offset="100%" stop-color="#0284C7" stop-opacity="0.8" />
+    </linearGradient>
+  </defs>
+
+  <style>
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 48px;
+      font-weight: 800;
+      fill: #FFFFFF;
+      letter-spacing: 1px;
+    }
+    .subtitle {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif;
+      font-size: 20px;
+      font-weight: 600;
+      fill: #00F7FF;
+      letter-spacing: 0.5px;
+    }
+    .badge {
+      font-family: 'Fira Code', monospace, -apple-system, sans-serif;
+      font-size: 13px;
+      font-weight: 600;
+      fill: #94A3B8;
+    }
+  </style>
+
+  <!-- Container Box with Rounded Corners and Glowing Border -->
+  <rect width="854" height="220" rx="16" fill="url(#bg)" />
+  <rect x="1" y="1" width="852" height="218" rx="15" fill="none" stroke="url(#borderGlow)" stroke-width="2" />
+
+  <!-- Animated Wave Layer 2 -->
+  <path fill="url(#wave2)">
+    <animate
+      attributeName="d"
+      dur="12s"
+      repeatCount="indefinite"
+      values="
+        M0 220 L0 150 Q213.5 120 427 150 T854 140 L854 220 Z;
+        M0 220 L0 140 Q213.5 170 427 130 T854 160 L854 220 Z;
+        M0 220 L0 160 Q213.5 130 427 165 T854 135 L854 220 Z;
+        M0 220 L0 150 Q213.5 120 427 150 T854 140 L854 220 Z
+      "
+    />
+  </path>
+
+  <!-- Animated Wave Layer 1 -->
+  <path fill="url(#wave1)">
+    <animate
+      attributeName="d"
+      dur="16s"
+      repeatCount="indefinite"
+      values="
+        M0 220 L0 160 Q213.5 190 427 160 T854 175 L854 220 Z;
+        M0 220 L0 175 Q213.5 150 427 180 T854 155 L854 220 Z;
+        M0 220 L0 155 Q213.5 175 427 150 T854 185 L854 220 Z;
+        M0 220 L0 160 Q213.5 190 427 160 T854 175 L854 220 Z
+      "
+    />
+  </path>
+
+  <!-- Text Header -->
+  <g text-anchor="middle">
+    <text x="427" y="82" class="title">Yasir Raees</text>
+    <text x="427" y="122" class="subtitle">Software Engineer | Full-Stack &amp; AI Systems Architect</text>
+    <text x="427" y="152" class="badge">Next.js • NestJS • Redis • PostgreSQL • Autonomous AI Agents</text>
+  </g>
+</svg>
