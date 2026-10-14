@@ -20,9 +20,18 @@
 
 <br/>
 
-<!-- GitHub Snake -->
+<!-- Contribution Snake Arcade Section -->
 <div align="center">
+  <h2>🐍 ARCADE PROTOCOL: snake_runner.exe</h2>
+  <p>
+    <img src="https://img.shields.io/badge/MISSION-CONSUMING_COMMITS-00F7FF?style=for-the-badge&logo=counter-strike&logoColor=black" />
+    <img src="https://img.shields.io/badge/STATUS-AUTONOMOUS_BOT-00FF9D?style=for-the-badge&logo=githubactions&logoColor=black" />
+    <img src="https://img.shields.io/badge/SPEED-OVERCLOCKED-7928CA?style=for-the-badge&logo=target&logoColor=white" />
+  </p>
+
   <img src="https://raw.githubusercontent.com/yasirraeesit/yasirraeesit/main/snake.svg" alt="GitHub Contribution Grid Snake" width="100%">
+
+  <p><em>🕹️ Watch the autonomous cyber-snake harvest active commit pulses across the repository timeline! ⚡</em></p>
 </div>
 
 <br/>
